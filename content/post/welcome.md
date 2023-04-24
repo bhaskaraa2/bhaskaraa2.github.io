@@ -2,7 +2,7 @@
 author = "bhaskar"
 title = "Welcome"
 date = "2023-04-23"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Welcome"
 tags = [
 ]
 categories = [
