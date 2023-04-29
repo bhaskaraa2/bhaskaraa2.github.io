@@ -32,9 +32,9 @@ title = "Bhaskar"
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy/"
     weight = 10
 
 [taxonomies]
